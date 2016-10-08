@@ -1,0 +1,46 @@
+
+
+<tm>
+	<tm:tel>
+		+91-94230-10093
+	</tm:tel>
+	<tm:msg>
+		This is a message.
+	</tm:msg>
+</tm>
+
+<tm>
+	<tm:tel>
+		+91-94230-10093
+	</tm:tel>
+	<tm:msg>
+		This is a message.
+	</tm:msg>
+</tm>
+
+<tm>
+	<tel>
+		+91-94230-10093
+	</tel>
+	<tel>
+		+91-94230-10093
+	</tel>
+	<tel>
+		+91-94230-10093
+	</tel>
+	<msg>
+		This is a message.
+	</msg>
+</tm>
+
+<tm tel="+91-94230-10093" msg="This is a message." />
+
+<tm:tel>
+	+91-94230-10093
+</tm:tel>
+<tm:msg>
+	This is a message.
+</tm:msg>
+
+
+<tt:tm><tm:tel>+91-94230-10093</tm:tel><tm:msg>This is a message.</tm:msg></tt:tm>
